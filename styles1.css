@@ -3,3 +3,14 @@ h1 {
  color: #000000;
  font-family: Impact;
 }
+
+body {
+  text-align: center;
+  background-color: white;
+}
+
+html {
+  background-image: "kiki garden.png";
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
