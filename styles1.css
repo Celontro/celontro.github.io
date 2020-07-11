@@ -4,13 +4,22 @@ h1 {
  font-family: Impact;
 }
 
-body {
+#mid {
+  display: inline-block;
   text-align: center;
+  width: 75%;
   background-color: white;
 }
 
+body {
+  text-align: center;
+}
+
+
+
 html {
-  background-image: "kiki garden.png";
+  background-image: url(assets/pepetoy.jpg);
   background-repeat: no-repeat;
-  background-attachment: scroll;
+  background-size: cover;
+  background-attachment: fixed;
 }
