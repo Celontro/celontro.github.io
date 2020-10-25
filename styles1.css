@@ -1,7 +1,7 @@
 h1 {
  font-size: 5em;
  color: #000000;
- font-family: Impact;
+ font-family: impact;
 }
 
 #mid {
@@ -22,4 +22,9 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+
+@font-face {
+  font-family: impact;
+  src: url(assets/impact.ttf);
 }
